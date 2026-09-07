@@ -57,7 +57,7 @@ Provides a high-level view of overall business performance.
 - Packaging Charges
 - Restaurant Performance
 
-![Executive Overview](Screenshots/executive_overview.png)
+![Executive Overview](Screenshots/Executive_overview.png)
 
 ---
 
@@ -73,7 +73,9 @@ Focuses on the additional costs associated with online ordering and convenience.
 - Cost trends
 - Convenience-related spending patterns
 
+
 ![Cost of Convenience](Screenshots/cost_of_convenience.png)
+
 
 ---
 
@@ -90,7 +92,7 @@ Analyzes customer ordering patterns and spending behavior.
 - Order timing
 - Customer segments
 
-![Customer & Order Behaviour](Screenshots/customer_order_behaviour.png)
+![Customer & Order Behaviour](Screenshots/consumer_ordeer_behavior.png)
 
 ---
 
@@ -106,8 +108,7 @@ Examines quick-commerce ordering behavior and its contribution to convenience-dr
 - Order frequency
 - Convenience-driven purchasing patterns
 
-![Quick Commerce](Screenshots/quick_commerce.png)
-
+![Quick Commerce](Screenshots/quick_commecr_analysis.png)
 ---
 
 # 🔍 Key Analytical Areas
